@@ -11,6 +11,7 @@ Backend framework: Node.js express cheerio
 
 # Web Page
 
+<img src="https://github.com/ourarash/nodejs_fullstack/blob/master/diagram.png?raw=true" width="400" text-align="center">
 # Install NodeJS
 
 You can install NodeJs from [here](https://nodejs.org/en/download/).

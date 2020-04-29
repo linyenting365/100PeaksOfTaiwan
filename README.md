@@ -13,7 +13,7 @@ You can install NodeJs from [here](https://nodejs.org/en/download/).
 To download and install:
 
 ```bash
-git clone https://github.com/ourarash/nodejs_fullstack.git
+git clone 
 cd nodejs_fullstack
 npm install
 ```

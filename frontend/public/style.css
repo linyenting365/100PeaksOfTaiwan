@@ -1,0 +1,61 @@
+.loader {
+  border: 6px solid #f3f3f3; /* Light grey */
+  border-top: 6px solid #3498db; /* Blue */
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+body, html {
+  height: 100%;
+  background-image: url("hehuanshan-main-peak-istock-1148778056 (1).jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:  100% 100%;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+
+div.selecting-bar{
+  position: absolute;
+  left:  150px;
+  top: 300px;
+}
+div.container{
+  position: absolute;
+  left: 150px;
+  top: 350px;
+  background-color:rgb(241, 239, 233);
+  margin: 0 auto;
+}
+
+#mountain-table{
+  text-align: center;
+}
+
+#Difficulty_Info{
+  text-align: left;
+}
+
+.fa_custom {
+  color: rgb(0, 65, 204)
+  }
+
+  .table {
+
+    margin: 0px auto;
+    float: none;
+}
+
+#GoogleMAP{
+  left: 150px;
+  top: 200px;
+}

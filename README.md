@@ -11,7 +11,7 @@ Backend framework: Node.js express cheerio
 
 # Web Page
 
-<img src="https://github.com/linyenting365/100PeaksOfTaiwan.git/WebPage.png" width="400" text-align="center">
+![GitHub Logo](/images/webPage.png)
 
 # Install NodeJS
 

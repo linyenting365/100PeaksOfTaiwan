@@ -6,7 +6,7 @@ The purpose of 100 Peaks of Taiwan is let people know there are many beautiful s
 
 
 # Tools in use:
-Frontend framework: Bootstrap4
+Frontend framework:HTML,CSS,Bootstrap4
 Backend framework: Node.js express cheerio
 
 # Install NodeJS

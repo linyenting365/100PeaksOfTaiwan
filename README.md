@@ -23,3 +23,10 @@ npm install
 cd backend
 node app.js
 ```
+
+
+## Running Frontend:
+```bash
+cd frontend
+node app.js
+```

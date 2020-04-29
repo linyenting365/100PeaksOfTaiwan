@@ -11,7 +11,7 @@ Backend framework: Node.js express cheerio
 
 # Web Page
 
-![GitHub Logo](/images/WebPage.png)
+![GitHub Logo](WebPage.png)
 
 # Install NodeJS
 

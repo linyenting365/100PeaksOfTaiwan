@@ -31,7 +31,7 @@ npm install
 ## Running Backend:
 ```bash
 cd backend
-node app.js
+node main_app.js
 ```
 
 

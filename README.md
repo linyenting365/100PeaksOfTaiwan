@@ -4,9 +4,11 @@ A full stack project starter code for NodeJS.
 # Proposal
 The purpose of 100 Peaks of Taiwan is let people know there are many beautiful seanery in my home country Taiwan. Since Taiwan is on the plate junction, it usually occur earthquake. This making Taiwan the world's fourth-highest island and there are several peaks over over 3,500 m. Many people came to Taiwan to challenge the 100 peaks in Taiwan, so I cearate the websit to let people known the basic knowledge about the peaks. 
 # Overview Of Implementation
-### Frontend 
 <img alt="Diagram" src="https://github.com/linyenting365/100PeaksOfTaiwan/blob/master/FullStack%20diagram.png?raw=true" width="400" text-align="center">
-
+## Frontend 
+* The Frontend is a webpage of 100 peaks of Taiwan data table 
+  ###Filter function
+  User will have height and Difficluty option to choose. This function can filter out of the data using input button and sends an HTTP GET request to the backend
 
 # Feature
 ### Filter Table

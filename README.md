@@ -55,7 +55,7 @@ cd backend
 node main_app.js
 ```
 You can test backend by installing and running [Postman](https://www.postman.com/downloads/):
-<img alt="Backend" src="//github.com/linyenting365/100PeaksOfTaiwan/blob/master/Postman.png?raw=true" width="400">
+<img alt="Backend" src="https://github.com/linyenting365/100PeaksOfTaiwan/blob/master/Postman.png?raw=true" width="400">
 
 ## Running Frontend:
 ```bash

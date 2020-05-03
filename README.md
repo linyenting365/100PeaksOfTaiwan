@@ -33,6 +33,10 @@ The purpose of 100 Peaks of Taiwan is let people know there are many beautiful s
 Frontend framework:HTML,CSS,Bootstrap4
 Backend framework: Node.js express cheerio
 
+# Future Work
+* add Google Map API to show the location of the mountain or city 
+* add tour guide for each mountain 
+
 # YouTube Link
 [here](https://youtu.be/_F54roA_pxI)
 # Install NodeJS
@@ -45,14 +49,14 @@ To download and install:
 
 ```bash
 git clone https://github.com/linyenting365/100PeaksOfTaiwan.git
-cd nodejs_fullstack
+cd 100PeaksOfTaiwan
 npm install
 ```
 
 ## Running Backend:
 ```bash
 cd backend
-node main_app.js
+node app.js
 ```
 You can test backend by installing and running [Postman](https://www.postman.com/downloads/):
 

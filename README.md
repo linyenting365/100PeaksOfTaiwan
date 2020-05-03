@@ -33,10 +33,6 @@ The purpose of 100 Peaks of Taiwan is let people know there are many beautiful s
 Frontend framework:HTML,CSS,Bootstrap4
 Backend framework: Node.js express cheerio
 
-
-# Web Page
-
-![GitHub Logo](WebPage.png)
 # YouTube Link
 [here](https://youtu.be/_F54roA_pxI)
 # Install NodeJS
@@ -58,11 +54,10 @@ npm install
 cd backend
 node main_app.js
 ```
-
-
 ## Running Frontend:
 ```bash
 cd frontend
 node app.js
 ```
 Then open your browser to http://localhost:3000:
+![GitHub Logo](WebPage.png)
